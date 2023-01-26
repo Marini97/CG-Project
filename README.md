@@ -1,4 +1,4 @@
-# Infinite Procedural Terrain Generator
+# Computer Graphics 2022/23
 
 Generatore procedurale per un terreno infinito. 
-Progetto realizzato su Unity 2021.3.14f1.
+Progetto realizzato su Unity 2021.3.15f1.
